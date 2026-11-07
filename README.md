@@ -1,112 +1,124 @@
-## Hi there 👋
+<div align="center">
 
 # 👩‍💻 Laveeza Fatima
 
-### 💙 Aspiring Full Stack Developer | Web Developer
+### Aspiring Full Stack Developer | Frontend & Backend Developer
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Frontend+%7C+Backend+Developer;Learning+%26+Building+Every+Day" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Frontend+%26+Backend+Developer;Building+My+Future+With+Code" />
 
----
-
-## 🌟 About Me
-
-Hello! I'm **Laveeza Fatima**, an aspiring Full Stack Developer passionate about creating websites and backend applications.
-
-- 💻 Interested in Frontend and Backend Development.
-- 🌱 Currently learning TypeScript, Node.js and Express.js.
-- 🚀 Building practical projects to improve my skills.
-- 🧠 Interested in REST APIs and problem-solving.
-- 🎯 Working towards becoming a professional Full Stack Developer.
+<img src="https://img.shields.io/badge/Developer-In%20Progress-0969DA?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-161B22?style=for-the-badge" />
 
 ---
 
-## 🛠️ My Tech Stack
+## 🌟 ABOUT ME
 
-### 🎨 Frontend
-<p>
+Hello! I'm **Laveeza Fatima**, an aspiring Full Stack Developer passionate about technology, programming, and building useful web applications.
+
+I enjoy turning ideas into functional projects and continuously improving my development skills.
+
+💻 Interested in Frontend and Backend Development.
+
+🌱 Currently learning TypeScript, Node.js and Express.js.
+
+🚀 Building practical web development projects.
+
+🧠 Exploring REST APIs and CRUD operations.
+
+🎯 Working towards becoming a professional Full Stack Developer.
+
+📚 Always open to learning and new opportunities.
+
+---
+
+## 🛠️ TECHNICAL SKILLS
+
+### 🎨 Frontend Development
+
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js" />
-</p>
 
-### ⚙️ Backend
-<p>
+### ⚙️ Backend Development
+
 <img src="https://skillicons.dev/icons?i=ts,nodejs,express" />
-</p>
 
-### 🔧 Tools
-<p>
+### 🔧 Development Tools
+
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
 
 ---
 
-## 🚀 My Featured Projects
+## 🚀 FEATURED PROJECTS
 
 ### 📚 Student Management API
-- Built using TypeScript and Express.js.
-- Implements CRUD operations.
-- Practices REST API development.
+
+A backend project for managing student records.
+
+- Developed using TypeScript and Express.js.
+- Implemented CRUD functionality.
+- Practiced REST API development.
+
+[View Project](https://github.com/LaveezaAsif/Assignment-No-02-STUDDENT-MANGEMANT-APi)
 
 ### 📖 Book Management API
-- A backend application for managing book records.
+
+A backend application for managing book records.
+
 - Create, Read, Update and Delete operations.
+- Built with Express.js.
 - Array-based data storage.
 
 ### ☕ Coffee Website
-- Modern coffee-themed website.
-- Built with HTML and CSS.
 
-[🌐 View My Live Website](https://mellow-blancmange-2048a8.netlify.app/)
+A modern coffee-themed frontend website.
 
----
+- Designed using HTML and CSS.
+- Focused on website layout and styling.
 
-## 📖 Currently Learning
-
-- TypeScript
-- Node.js
-- Express.js
-- REST API Development
-- Backend Development
+[View Live Website](https://mellow-blancmange-2048a8.netlify.app/)
 
 ---
 
-## 🎯 My Goals
+## 📖 CURRENTLY LEARNING
 
-- Build complete Full Stack applications.
-- Improve my coding and problem-solving skills.
-- Create real-world projects.
-- Keep learning and growing as a developer.
+💙 TypeScript
 
----
+💙 Node.js
 
-## 📬 Connect With Me
+💙 Express.js
 
-<p>
-<a href="https://github.com/LaveezaAsif">
-<img src="https://img.shields.io/badge/GitHub-Visit%20My%20Profile-161B22?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-</p>
+💙 REST API Development
+
+💙 Backend Application Development
 
 ---
 
-<p align="center">
-  <b>💙 Code | Create | Learn | Grow</b>
-  <br/>
-  ✨ "Every expert was once a beginner."
-  <br/><br/>
-  Thanks for visiting my profile! ⭐
-</p><!--
-**laveezafatima72-sys/laveezafatima72-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎯 CAREER OBJECTIVE
 
-Here are some ideas to get you started:
+My goal is to become a skilled Full Stack Developer by building real-world applications, improving my technical knowledge, and gaining practical development experience.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Interested in opportunities:**
+
+- Junior Frontend Developer
+- Junior Backend Developer
+- Web Development Intern
+- Junior Full Stack Developer
+
+---
+
+## 💼 PROFESSIONAL INTERESTS
+
+💻 Web Development
+
+⚙️ API Development
+
+🧠 Software Engineering
+
+🚀 Problem Solving
+
+📚 Continuous Learning
+
+---
+
+## 📬 CONNECT WITH ME
+
+<a href="https://github
