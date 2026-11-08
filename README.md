@@ -1,76 +1,103 @@
-# Hi, I'm Laveeza Fatima 👋
-### 🎓 1st Year Tech Student & Passionate Self-Taught Software Developer
+# 👋 Hi, I'm Laveeza Fatima
 
-<p align="left">
-  <a href="https://linkedin.com"><img src="https://shields.io" alt="LinkedIn" /></a>
-  <a href="mailto:your-email@gmail.com"><img src="https://shields.io" alt="Email" /></a>
-</p>
-
----
-
-## 🧑‍💻 Comprehensive Profile
-- 🏢 **Full Name:** Laveeza Fatima (D/O Muhammad Asif)
-- 📍 **Location:** Pakistan 🇵🇰
-- 🎓 **Academic Status:** Currently in **1st Year (Intermediate)**, balancing formal college board education with high-intent software engineering exploration.
-- 🎯 **Core Vision:** Bridging the gap between traditional academics and modern, industry-grade technical skills by building software early in my journey.
-
----
-
-## 🚀 My Developer Journey & Deep Dive
-I believe that age and academic grade are just numbers when it comes to shipping code. While managing my college curriculum, I dedicate my self-paced learning tracks to mastering full-stack architectures and engineering fundamentals. 
-
-* **What drives me:** Building clean user interfaces, structural logic design, and breaking down complex problems into modular code blocks.
-* **Current Horizon:** Transitioning from foundational syntax to building full-stack web applications and understanding cloud deployments.
-
----
-
-## 🛠️ Detailed Tech Stack & Competencies
-
-### 💻 Languages & Logic
-<p align="left">
-  <img src="https://skillicons.dev" alt="Core Languages" />
-</p>
-
-### 🌐 Frontend Engineering
-<p align="left">
-  <img src="https://skillicons.dev" alt="Frontend Layouts" />
-</p>
-
-### ⚙️ Backend & Database Systems
-<p align="left">
-  <img src="https://skillicons.dev" alt="Backend Infrastructure" />
-</p>
-
-### 🧰 Development Tools & Platforms
-<p align="left">
-  <img src="https://skillicons.dev" alt="Workflow Tools" />
-</p>
-
----
-
-## 📈 GitHub Metrics
+### 💻 Aspiring Full-Stack Developer | Pre-Engineering Student
 
 <p align="center">
-  <img src="https://vercel.app" alt="Laveeza's Stats" height="160" />
-  <img src="https://vercel.app" alt="Laveeza's Top Languages" height="160" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile!;Aspiring+Full-Stack+Developer;Learning+Backend+Development;Building+My+Future+With+Code+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://herokuapp.com" alt="Laveeza's Coding Streak" height="160" />
+  <img src="https://img.shields.io/badge/Student-Pre--Engineering-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Web%20Development-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Location-Pakistan-green?style=for-the-badge" />
 </p>
 
 ---
 
-## 🎯 Current Operational Focus
-```text
-⚡ [Learning]     Advanced Javascript concepts, React hooks, and API architectures.
-📚 [Studying]     Preparing for 1st Year Intermediate Board Examinations.
-🚀 [Building]     Modular, responsive frontend components & light utility web apps.
-🧠 [Philosophy]   "The best way to predict the future is to invent it."
-```
+## 🌸 About Me
+
+I'm Laveeza Fatima, a passionate student from Pakistan 🇵🇰 with a strong interest in technology, programming, and software development.
+
+Currently, I'm studying **Class 11 Pre-Engineering** and exploring the world of web development.
+
+I enjoy learning new technologies, building projects, solving coding problems, and improving my skills every day.
+
+- 🎓 Class 11 – Pre-Engineering
+- 💻 Completed a Web Development Course
+- 🌱 Currently learning Backend Development
+- 🚀 Exploring Node.js, Express.js & TypeScript
+- 🎨 Interested in Frontend and Backend Development
+- 🎯 Goal: Become a Professional Software Engineer
+- 🌍 Dream: Build a successful international tech career
+
+## 🛠️ My Tech Stack
+
+### Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js" />
+</p>
+
+### Backend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,ts" />
+</p>
+
+### Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,netlify" />
+</p>
+
+## 📂 My Projects
+
+| Project | Description | Technologies |
+|---|---|---|
+| 📚 StudyHub | Educational website | HTML, CSS, Bootstrap, JS |
+| ☕ Coffee Website | Frontend website practice | HTML, CSS |
+| 👩‍🎓 Student Management API | Student CRUD operations | Node.js, Express, TypeScript |
+| 📖 Book CRUD API | Backend CRUD practice | Node.js, Express |
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=laveezafatima72-sys&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laveezafatima72-sys&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=laveezafatima72-sys&theme=tokyonight&hide_border=true" width="70%" />
+</p>
+
+## 🎯 My Current Goals
+
+- 📌 Improve JavaScript fundamentals
+- 📌 Master HTML, CSS and Bootstrap
+- 📌 Learn Node.js and Express.js
+- 📌 Understand REST APIs and CRUD operations
+- 📌 Improve TypeScript skills
+- 📌 Build real-world projects
+- 📌 Prepare for my Computer Engineering journey
+
+## 🌱 My Learning Philosophy
+
+I believe that every expert was once a beginner.
+
+I'm learning step by step, making mistakes, solving problems, and growing with every project.
+
+<p align="center">
+  <b>✨ Dream Big. Code More. Keep Growing. ✨</b>
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://vercel.app" alt="Dev Quote" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer" width="100%" />
+</p>
+
+<p align="center">
+  ⭐ Thanks for visiting my profile! 
+  <br/>
+  Let's learn, build and grow together! 💙
 </p>
